@@ -1,0 +1,10 @@
+*
+!requirements.txt
+!api.py
+!utils.py
+!chains.py
+!bot.py
+!front-end
+!images
+!loader.py
+!pdf_bot.py
